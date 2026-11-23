@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368705089197",
+    "project_id": "rajs-adminpnl",
+    "storage_bucket": "rajs-adminpnl.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368705089197:android:d82adbf3dd3421913a2024",
+        "android_client_info": {
+          "package_name": "com.agent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFKKFaq2n5Btt4Xdh1fB87VW8mV2g2Zzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
